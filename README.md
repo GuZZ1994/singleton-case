@@ -1,0 +1,2 @@
+# singleton-case
+Es6 
